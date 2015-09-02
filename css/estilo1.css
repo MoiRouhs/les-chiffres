@@ -1,0 +1,20 @@
+body{
+    width:100%;
+}
+header{
+    width:100%;
+    height:20%;
+    background-color:#cddc39;
+    position:fixed;
+    top:0;
+    left:0;
+    
+    border-bottom:0.3em;
+    border-bottom-color:#827717;
+    border-bottom-style:solid;
+}
+h1{
+    text-align:center;
+    font-family:Helvetica;
+    
+}
