@@ -1,20 +1,18 @@
-body{
-    width:100%;
-}
-header{
+div.titulo{
+    display: flex;  
+    align-items: center;
     width:100%;
     height:20%;
     background-color:#cddc39;
+    border-bottom:0.3em solid #dc49b0;
     position:fixed;
     top:0;
     left:0;
-    
-    border-bottom:0.3em;
-    border-bottom-color:#827717;
-    border-bottom-style:solid;
 }
 h1{
-    text-align:center;
     font-family:Helvetica;
-    
+    font-size:7vh;
+    color:#dc49b0;
+    margin-left:auto;
+    margin-right:auto;
 }
