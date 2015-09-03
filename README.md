@@ -1,2 +1,2 @@
 # les-chiffres
-App de firefox os para aprender los numero en francés
+App de Firefox OS para aprender los números en francés
