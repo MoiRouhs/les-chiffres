@@ -42,12 +42,12 @@ div.menu,
 div.menu1{
     overflow:auto;
     width:80%;
-    height:67%;
     position:absolute;
     left:10%;    
 }
 div.menu{
     top:27%;
+
 }
 div.menu1{
     top:37%;
