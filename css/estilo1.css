@@ -1,3 +1,6 @@
+body{
+background-color: white;
+}
 div.titulo,
 div.titulo1,
 div.titulo2,
@@ -50,7 +53,7 @@ div.menu{
 
 }
 div.menu1{
-    top:37%;
+    top:43%;
 }
 div.marco{
     padding-top:1.5%;
@@ -110,4 +113,53 @@ p{
 }
 a{
     text-decoration:none;
+}
+img{
+   width:15%;
+   position:fixed;
+   top:26%;
+   left:43%;
+}
+.mascara {
+    background: rgba(0,0,0,0.7);
+    font-family:Helvetica;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 99999;
+    opacity:0;
+    transition: opacity 400ms ease-in;
+    pointer-events: none;
+}
+.mascara:target {
+    opacity:1;
+    pointer-events: auto;
+}
+.modalbox{
+    width: 75%;
+    height:90%;
+    position: relative;
+    padding: 5px 20px 13px 20px;
+    background: #fff;
+    transition: all 500ms ease-in;
+}
+.mascara:target .movedown{       
+    margin:5% auto;
+}
+.cerrar {
+    background: #e91e63;
+    width: 100%;
+    color: #b388ff;
+    line-height: 250%;
+    position: absolute;
+    bottom:0%;
+    right: 0%;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-family:Helvetica;
+    font-size:1.3em;
+    border-top: 0.3em solid #b388ff;
 }
