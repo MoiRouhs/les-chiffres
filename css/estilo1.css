@@ -148,10 +148,9 @@ img{
 .mascara:target .movedown{       
     margin:5% auto;
 }
-.cerrar {
+.cerrar1, .cerrar2, .cerrar3, .cerrar4{
     background: #e91e63;
     width: 100%;
-    color: #b388ff;
     line-height: 250%;
     position: absolute;
     bottom:0%;
@@ -161,5 +160,37 @@ img{
     font-weight: bold;
     font-family:Helvetica;
     font-size:1.3em;
+}
+.cerrar1{
+    color:#b388ff;
     border-top: 0.3em solid #b388ff;
+}
+.cerrar2{
+    color:#7c4dff;
+    border-top: 0.3em solid #7c4dff;
+}
+.cerrar3{
+    color:#651fff;
+    border-top: 0.3em solid #651fff;
+}
+.cerrar4{
+    color:#6200ea;
+    border-top: 0.3em solid #6200ea;
+}
+.remarque1, .remarque2, .remarque3, .remarque4{
+    font-size:8vw;
+    font-weight: bold;
+    font-family:Helvetica;
+}
+.remarque1{
+    color:#b388ff;
+}
+.remarque2{
+    color:#7c4dff;
+}
+.remarque3{
+    color:#651fff;
+}
+.remarque4{
+    color:#6200ea;
 }
