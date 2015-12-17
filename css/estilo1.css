@@ -13,6 +13,7 @@ div.titulo4{
     position:fixed;
     top:0;
     left:0;
+    z-index: 50;
 }
 div.titulo{
     background-color:#cddc39;
