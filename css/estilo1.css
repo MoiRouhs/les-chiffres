@@ -129,7 +129,12 @@ p.grammaire{
     font-size:3.5vh;
     font-family:Helvetica;
     text-align:left;
-    margin-top:0.5%;
+}
+blockquote{
+    color:black;
+    font-size:3.5vh;
+    font-family:Helvetica;
+    text-align:left;
 }
 div.texto{
     height: 68%;
