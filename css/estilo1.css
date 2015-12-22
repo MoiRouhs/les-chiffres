@@ -121,6 +121,21 @@ img{
    top:26%;
    left:43%;
 }
+b{
+    color:green;
+}
+p.grammaire{
+    color:black;
+    font-size:3.5vh;
+    font-family:Helvetica;
+    text-align:left;
+    margin-top:0.5%;
+}
+div.texto{
+    height: 68%;
+    width: 100%;
+    overflow:auto;  
+}
 .mascara {
     background: rgba(0,0,0,0.7);
     font-family:Helvetica;
