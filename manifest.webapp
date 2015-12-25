@@ -1,0 +1,14 @@
+{
+  "name": "Les Chiffres",
+  "description": "app para el estudio de los números en francés",
+  "launch_path": "/html/index.html",
+  "icons": {
+    "128": "/imagenes/icono.png"
+  },
+  "developer": {
+    "name": "Carlos Rocha",
+    "url": "http://librecolaboracion.org"
+  },
+  "default_locale": "es",
+  "orientation": "portrait"
+}
