@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="../css/estil.css">
+    <script type="text/javascript" src="../js/chiffres.js" async="async"></script>
+</head>
+<body>
+<div id="inicio" class="caja">
+
+</div>
+<div id="e1" class="caja invisible">
+
+</div>
+<div id="e2" class="caja invisible">
+    
+</div>
+<div id="e3" class="caja invisible">
+    
+</div>
+<div id="e4" class="caja invisible">
+    
+</div>
+<div id="e5" class="caja invisible">
+    
+</div>
+<div id="e6" class="caja invisible">
+    
+</div>
+<div id="e7" class="caja invisible">
+    
+</div>
+<div id="e8" class="caja invisible">
+    
+</div>
+<div id="e9" class="caja invisible">
+    
+</div>
+<div id="e10" class="caja invisible">
+    
+</div>
+<div id="e11" class="caja invisible">
+
+</div>
+<div id="e12" class="caja invisible">
+    
+</div>
+<div id="e13" class="caja invisible">
+    
+</div>
+<div id="e14" class="caja invisible">
+    
+</div>
+<div id="e15" class="caja invisible">
+    
+</div>
+<div id="e16" class="caja invisible">
+    
+</div>
+<div id="e17" class="caja invisible">
+    
+</div>
+<div id="e18" class="caja invisible">
+    
+</div>
+<div id="e19" class="caja invisible">
+    
+</div>
+<div id="e20" class="caja invisible">
+    
+</div>
+<div id="e21" class="caja invisible">
+
+</div>
+<div id="e22" class="caja invisible">
+    
+</div>
+<div id="e23" class="caja invisible">
+    
+</div>
+<div id="e24" class="caja invisible">
+    
+</div>
+<div id="e25" class="caja invisible">
+    
+</div>
+<div id="e26" class="caja invisible">
+    
+</div>
+<div id="e27" class="caja invisible">
+    
+</div>
+<div id="e28" class="caja invisible">
+    
+</div>
+<div id="e29" class="caja invisible">
+    
+</div>
+<div id="e30" class="caja invisible">
+    
+</div>
+<div id="fin" class="caja invisible">
+    
+</div>
+</body>
+</html>
