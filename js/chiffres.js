@@ -20,7 +20,7 @@ function azar(){
         var visible = document.getElementById(id);
         var fin = document.getElementById("fin");
             
-        contar ++;
+            contar ++;
             insertar.innerHTML=contar;
             console.log(id, numero,diferente,((ejercicios.length)-1));
             
@@ -40,5 +40,4 @@ function azar(){
                 invisible.className="caja invisible";
                 fin.className="caja";
             }
-        
         }
