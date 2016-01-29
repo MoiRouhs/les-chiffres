@@ -6,3 +6,6 @@ El código de esta aplicación busca ser de facil comprensión, para que cualqui
 
 ##Licencia
 Este aplicación es software libre y ella como su código fuente estan publicadas en LGPLv3 (GNU LESSER GENERAL PUBLIC LICENSE Version 3)
+
+##[Wiki](https://github.com/MoiRouhs/les-chiffres/wiki) 
+Espacio de documentacion y planeación de cambios a o mejoras afuturo de la aplicación.
