@@ -3,7 +3,7 @@
   "description": "app para el estudio de los números en francés",
   "launch_path": "/html/index.html",
   "icons": {
-    "128": "/imagenes/icono.png"
+    "128": "/imagenes/iconos/icono.png"
   },
   "developer": {
     "name": "Carlos Rocha",

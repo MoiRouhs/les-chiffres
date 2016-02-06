@@ -37,7 +37,7 @@ div.titulo4{
 }
 h1{
     font-family:Helvetica;
-    font-size:9vh;
+    font-size:8vh;
     color:#dc49b0;
     margin-left:auto;
     margin-right:auto;
@@ -92,7 +92,7 @@ div.unidad4{
 }
 h2.chiffres,
 h2.index{
-    font-size:4vh;
+    font-size:3.5vh;
     font-family:Helvetica;
     color:white;
 }
@@ -106,7 +106,7 @@ h2.chiffres{
     margin-right:auto;
 }
 p{
-    font-size:3.5vh;
+    font-size:5.5vw;
     font-family:Helvetica;
     color:white;
     text-align:center;
@@ -141,7 +141,7 @@ div.texto{
     width: 100%;
     overflow:auto;  
 }
-.mascara {
+.mascara{
     background: rgba(0,0,0,0.7);
     font-family:Helvetica;
     position: fixed;
@@ -154,7 +154,7 @@ div.texto{
     transition: opacity 400ms ease-in;
     pointer-events: none;
 }
-.mascara:target {
+.mascara:target{
     opacity:1;
     pointer-events: auto;
 }
