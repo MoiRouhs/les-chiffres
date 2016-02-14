@@ -7,7 +7,7 @@
     <script type="text/javascript" src="../js/chiffres.js" async="async"></script>
 </head>
 <body>
-<div id="inicio" class="caja">
+<div id="inicio" class="caja invisible">
     <div class="tituloejercicios1">
         <h1 class="titulo">Types des exercices</h1>
         <h2 class="subtitulo">De zéro à vingt</h2>
@@ -34,11 +34,24 @@
         <a href="../html/unite1.html">
             <img class="atras" src="../imagenes/iconos/atras.svg">
         </a>
-        <h2 class="comenzar">Commencer</h2>
+        <h2 onclick="comenzar()" class="comenzar">Commencer</h2>
     </div>
 </div>
-<div id="e1" class="caja invisible">
-
+<div id="e1" class="caja">
+    <div class="encabezado">
+        <img class="iconopregunta" src="../imagenes/iconos/escritura.svg">
+    </div>
+    <div class="pregunta">
+        <div class="centrado">
+            <h1>Zéro</h1>
+        </div>
+    </div>
+    <div class="respuesta">
+        <div class="centrado">
+            <input id="numero" size="4" type="tel" onkeyup="escrito('numero','0',event)" placeholder="Chiffre">
+            <h3 onclick="escrito('numero','0',event)">OK</h3>
+        </div>
+    </div>
 </div>
 <div id="e2" class="caja invisible">
     
