@@ -28,7 +28,7 @@ div.cont4{
 div.boton{
     position: absolute; 
     left: 1.5%; 
-    top: 30%;
+    top: 5vh;
     width:15%;
     z-index: 100;
 }
