@@ -1,5 +1,9 @@
  
-div.tituloejercicios1, div.tituloejercicios2, div.tituloejercicios3, div.tituloejercicios4{
+*{
+    margin:0;
+    padding:0;
+}
+ div.tituloejercicios1, div.tituloejercicios2, div.tituloejercicios3, div.tituloejercicios4{
     width:100%;
     height:15%;
     position:absolute;
@@ -25,7 +29,8 @@ div.tituloejercicios4{
 h1.titulo{
     font-size:4.6vh;
     margin-left:2.5%;
-    line-height: 1.5vh;
+    margin-top: 2vh;
+    line-height: 6vh;
     font-family:Helvetica;
     color:#dc49b0;
 }
@@ -35,7 +40,7 @@ h2.subtitulo{
     margin-right:2.5%;
     font-family:Helvetica;
     color:#dc49b0;
-    line-height:3.5vh;
+    line-height:4vh;
 }
 div.contenedorb{
     width:90%;
@@ -58,6 +63,7 @@ img.botones{
 }
 p.texto{
     font-size:3vh;
+    line-height: 8vh;
 }
 div.empezar1,div.empezar2, div.empezar3, div.empezar4{
     width:100%;
@@ -87,7 +93,7 @@ div.empezar4{
     font-size:5.5vh;
     text-align:right;
     margin-right:4.5%;
-    line-height: 4vh;
+    line-height: 12vh;
     font-family:Helvetica;
     color:#dc49b0;
 }
@@ -121,6 +127,33 @@ img.atras{
     left:0;
     
 }
+/* COmienzo del input */
+.subministrar{
+    border-top: 1vw solid #9e9e9e;
+    display:none;
+    background-color: white;
+    width:100%;
+    padding:1%;
+    position:fixed;
+    bottom:0;
+    z-index: 79;
+}
+.inputexto{
+    background-color: #f5f5f5;
+    font-size: 5vw;
+    display:inline-flex;
+    border:none;
+    border-bottom: 1vw solid #9e9e9e;
+    width:90%;
+    margin: 0;
+}
+.enter{
+    display:inline-flex;
+    font-size:9vw;
+    font-weight: 900;
+    margin:0% 1% 0% 1%;
+}
+/* Fin del input */
 .respuesta{
     width:100%;
     height:15%;
@@ -134,4 +167,4 @@ img.atras{
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-}   
+} 
