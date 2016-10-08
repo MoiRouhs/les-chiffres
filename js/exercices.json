@@ -1,0 +1,14 @@
+var exepciones=["audio","fonetica"];
+var ejercicios={
+    "p1":{numero:"1",letra:"Un",audio:"audio1",fonetica:"/œ̃/"},
+    "p2":{numero:"2",letra:"Deux",audio:"audio2",fonetica:"/dø/"},
+    "p3":{numero:"3",letra:"Trois",audio:"audio3",fonetica:'/trwa/'},
+    "p4":{numero:"4",letra:"Quatre",audio:"audio4",fonetica:'/katr/'},
+    "p5":{numero:"5",letra:"Cinq",audio:"audio5",fonetica:'/sɛ̃k/'},
+    "p6":{numero:"6",letra:"Six",audio:"audio6",fonetica:'/siz/'},
+    "p7":{numero:"7",letra:"Sept",audio:"audio7",fonetica:'/sɛt/'},
+    "p8":{numero:"8",letra:"Huit",audio:"audio8",fonetica:'/ɥit/'},
+    "p9":{numero:"9",letra:"Neuf",audio:"audio9",fonetica:'/nœf/'},
+    "p10":{numero:"10",letra:"Dix",audio:"audio10",fonetica:'/dis/'},
+    
+}
